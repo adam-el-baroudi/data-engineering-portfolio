@@ -1,0 +1,35 @@
+data-engineering-portfolio/
+├── README.md
+├── 01_Non_Negotiables/
+│   ├── Python_Programming/
+│   └── sql_for_data_ingier/
+│       ├── 01_sql_fundamentals_ddl_dml.sql
+│       └── 02_schema_setup_and_bulk_insert.sql
+├── 02_Building_Blocks/
+│   ├── Data_Warehousing/
+│   └── Data_Modeling/
+├── 03_Master_Big_Data_Apache_Spark/
+│   ├── Spark_Fundamentals/
+│   └── PySpark_Real_Time_Scenarios/
+├── 04_Git_and_GitHub/
+├── 05_Azure_Data_Engineering/
+│   ├── Azure_Data_Factory/
+│   └── Azure_Synapse_Analytics/
+├── 06_Databricks_Tech_Stack/
+│   ├── Unity_Catalog/
+│   ├── Delta_Live_Tables/
+│   └── Databricks_CICD/
+├── 07_Microsoft_Fabric/
+├── 08_Trending_Open_Source/
+│   ├── DBT_Projects/
+│   └── Spark_Structured_Streaming/
+├── 09_End_To_End_Projects/
+│   ├── Spotify_Azure_CI_CD/
+│   ├── Netflix_ADF_Databricks/
+│   └── OnPrem_to_Cloud_Migration/
+├── 10_Certifications_and_Courses/
+│   └── Study_Notes/
+└── 11_Interview_Preparation/
+    ├── Azure_Interview_Questions/
+    ├── Databricks_Interview_Questions/
+    └── PySpark_Interview_Questions/
